@@ -1,5 +1,5 @@
 ---
-title: Upcoming DIY Garden Trellis Workshop
+title: Upcoming DIY Garden Trellis Workshop on June 18
 description: 
 date: 2022-06-13
 tags:
